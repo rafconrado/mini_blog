@@ -21,16 +21,27 @@ const CreatePost = () => {
     setFormError("");
 
     //VALIDADE IMAGE URL
+    try {
+      new URL(image);
+    } catch (error) {
+      return setFormError("A imagem precisa ser uma URL.");
+    }
 
     //CREATED ARRAYS ON TAGS
+    const tagsArray = tags.split(",").map((tag) => tag.trim().toLowerCase());
 
     //CHECK ALL VALUES
+    if (!title || !image || !tags || !body) {
+      setFormError("Por favor, preencha todos os campos.");
+    }
+
+    if (formError) return;
 
     insertDocument({
       title,
       image,
       body,
-      tags,
+      tagsArray,
       uid: user.uid,
       createdBy: user.displayName,
     });
@@ -93,6 +104,7 @@ const CreatePost = () => {
           </button>
         )}
         {response.error && <p className="error">{response.error}</p>}
+        {formError && <p className="error">{formError}</p>}
       </form>
     </div>
   );
