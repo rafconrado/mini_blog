@@ -42,7 +42,7 @@ form{
 label{
   display: flex;
   flex-direction: column;
-  margin-bottom: 1px;
+  margin-bottom: 1em;
 }
 
 label span{
@@ -88,4 +88,25 @@ textarea {
 
 .btn:hoover{
   background-color: #0F730C;
+  color:#FFF
+}
+
+.btn.btn-outline:hover{
+  background-color: #000;
+}
+
+.btn.btn-danger:hover{
+  background-color: #DC3545;
+}
+
+button[disabled]{
+  background-color: #AAA;
+}
+
+.container .error{
+  color: #721C24;
+  background-color: #F8D7DA;
+  border: 1px solid #F5C6CB;
+  padding: 5px;
+  border-radius: 5px;
 }
