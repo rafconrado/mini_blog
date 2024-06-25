@@ -20,6 +20,12 @@ Dashboard:
 Create Post:
 ![image](https://github.com/rafconrado/mini_blog/assets/156972984/0e8bd120-d89d-4ff0-b06c-c6dd21ad7982)
 
+Post details:
+![image](https://github.com/rafconrado/mini_blog/assets/156972984/ebab5afe-6b55-4e42-8426-2ee2fd7b18b7)
+
+Search for tags:
+![image](https://github.com/rafconrado/mini_blog/assets/156972984/33f4bc10-2bd0-4763-b193-763ace7a65b4)
+
 
 
 
