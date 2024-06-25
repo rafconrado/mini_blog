@@ -26,6 +26,10 @@ Post details:
 Search for tags:
 ![image](https://github.com/rafconrado/mini_blog/assets/156972984/33f4bc10-2bd0-4763-b193-763ace7a65b4)
 
+Edit page:
+![image](https://github.com/rafconrado/mini_blog/assets/156972984/e870c8ae-10af-4057-baba-bc193622e4aa)
+
+
 
 
 
