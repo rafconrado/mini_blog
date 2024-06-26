@@ -1,6 +1,17 @@
-# mini_blog
- mini blog criado com firebase e react.js
+Este é um Mini Blog desenvolvido com Firebase e React.js. A aplicação permite que usuários registrem-se, façam login, criem, editem e excluam postagens, além de buscar por tags.
 
+Funcionalidades:
+
+-Registro e autenticação de usuários
+-Criação, edição e exclusão de postagens
+-Visualização de detalhes das postagens
+-Busca de postagens por tags
+
+Tecnologias Utilizadas:
+
+Frontend: React.js
+Backend: Firebase
+Estilos: CSS
 
 Home:
 ![image](https://github.com/rafconrado/mini_blog/assets/156972984/7d9c4a2f-2f71-4fea-a656-f18eb8573d55)
