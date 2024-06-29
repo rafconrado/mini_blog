@@ -10,7 +10,11 @@ Busca de postagens por tags.
 Tecnologias Utilizadas:
 
 Frontend: React.js;
+
+
 Backend: Firebase;
+
+
 Estilos: CSS.
 
 Home:
