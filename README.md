@@ -37,7 +37,7 @@ Bem-vindo ao Mini Blog! Esta é uma aplicação web full-stack desenvolvida com 
 
 ## 📂 Estrutura do Projeto (Simplificada)
 
-mini_blog/
+``mini_blog/
 ├── public/
 │   └── index.html
 ├── src/
@@ -53,7 +53,7 @@ mini_blog/
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
-└── README.md
+└── README.md``
 
 ## 🚀 Começando
 
