@@ -1,21 +1,53 @@
-Este é um Mini Blog desenvolvido com Firebase e React.js. A aplicação permite que usuários registrem-se, façam login, criem, editem e excluam postagens, além de buscar por tags.
+✒️ Mini Blog com React & Firebase
+Bem-vindo ao Mini Blog! Esta é uma aplicação web desenvolvida com React.js e Firebase, permitindo que os usuários compartilhem suas ideias e pensamentos através de postagens.
 
-Funcionalidades:
+✨ Funcionalidades Principais
+Autenticação de Usuários: Sistema completo de registro e login.
+Gerenciamento de Postagens:
+Criação de novas postagens.
+Edição de postagens existentes.
+Exclusão de postagens.
+Visualização Detalhada: Acesse os detalhes completos de cada postagem.
+Busca por Tags: Encontre facilmente postagens sobre tópicos específicos utilizando tags.
+🛠️ Tecnologias Utilizadas
+Frontend:
+React.js - Uma biblioteca JavaScript para construir interfaces de usuário.
+Backend & Autenticação:
+Firebase - Plataforma do Google que fornece serviços de backend, incluindo autenticação de usuários e banco de dados NoSQL (Firestore/Realtime Database).
+Estilização:
+CSS puro - Para estilização visual dos componentes.
+🚀 Começando (Opcional - adicione se relevante)
+Para rodar este projeto localmente, siga os passos abaixo:
 
-Registro e autenticação de usuários;
-Criação, edição e exclusão de postagens;
-Visualização de detalhes das postagens;
-Busca de postagens por tags.
+Clone o repositório:
+Bash
 
-Tecnologias Utilizadas:
+git clone https://github.com/rafconrado/mini_blog.git
+Navegue até o diretório do projeto:
+Bash
 
-Frontend: React.js;
+cd mini_blog
+Instale as dependências:
+Bash
 
+npm install
+# ou
+yarn install
+Configure suas variáveis de ambiente do Firebase (crie um arquivo .env na raiz do projeto com suas credenciais do Firebase).
+Snippet de código
 
-Backend: Firebase;
+REACT_APP_FIREBASE_API_KEY=SUA_API_KEY
+REACT_APP_FIREBASE_AUTH_DOMAIN=SEU_AUTH_DOMAIN
+REACT_APP_FIREBASE_PROJECT_ID=SEU_PROJECT_ID
+REACT_APP_FIREBASE_STORAGE_BUCKET=SEU_STORAGE_BUCKET
+REACT_APP_FIREBASE_MESSAGING_SENDER_ID=SEU_MESSAGING_SENDER_ID
+REACT_APP_FIREBASE_APP_ID=SEU_APP_ID
+Inicie a aplicação:
+Bash
 
-
-Estilos: CSS.
+npm start
+# ou
+yarn start
 
 Home:
 ![image](https://github.com/rafconrado/mini_blog/assets/156972984/7d9c4a2f-2f71-4fea-a656-f18eb8573d55)
