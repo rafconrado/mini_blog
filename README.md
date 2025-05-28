@@ -23,6 +23,8 @@ Clone o repositório:
 Bash
 
 git clone https://github.com/rafconrado/mini_blog.git
+
+
 Navegue até o diretório do projeto:
 Bash
 
