@@ -37,7 +37,8 @@ Bem-vindo ao Mini Blog! Esta é uma aplicação web full-stack desenvolvida com 
 
 ## 📂 Estrutura do Projeto (Simplificada)
 
-``mini_blog/
+```text
+mini_blog/
 ├── public/
 │   └── index.html
 ├── src/
@@ -53,7 +54,7 @@ Bem-vindo ao Mini Blog! Esta é uma aplicação web full-stack desenvolvida com 
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
-└── README.md``
+└── README.md
 
 ## 🚀 Começando
 
