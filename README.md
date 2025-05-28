@@ -55,6 +55,7 @@ mini_blog/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ## 🚀 Começando
 
