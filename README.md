@@ -133,21 +133,8 @@ Contribuições são o que tornam a comunidade de código aberto um lugar incrí
 4.  Push para a Branch (`git push origin feature/NovaFuncionalidade`)
 5.  Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto não possui um arquivo de licença especificado no repositório. Recomenda-se adicionar um arquivo `LICENSE` (por exemplo, MIT License) para definir como outros podem usar seu código.
-
-*(Se você adicionar um arquivo LICENSE.md com, por exemplo, a licença MIT, o selo no topo funcionará.)*
-
 ## 📧 Contato
 
-Rafael Conrado - [@seu_linkedin](https://www.linkedin.com/in/seu_linkedin_aqui/) *(adicione seu link)* - seu_email@example.com *(adicione seu email)*
+Rafael Conrado - [LinkedIn](https://www.linkedin.com/in/rafconradoo/) - rafconradoo@gmail.com
 
 Link do Projeto: [https://github.com/rafconrado/mini_blog](https://github.com/rafconrado/mini_blog)
-
----
-
-Espero que este README esteja completo e do seu agrado! Lembre-se de:
-* Adicionar um arquivo `LICENSE` ao seu repositório.
-* Atualizar os placeholders (como link do deploy, links de contato, e confirmar se as versões das tecnologias estão corretas se isso for importante para você).
-* Criar um arquivo `.env.example` no seu repositório com as chaves `REACT_APP_FIREBASE_...` (sem os valores) para guiar outros usuários.
