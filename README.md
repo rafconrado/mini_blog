@@ -1,13 +1,6 @@
 # ✒️ Mini Blog com React & Firebase
 
-[![GitHub repo stars](https://img.shields.io/github/stars/rafconrado/mini_blog?style=social)](https://github.com/rafconrado/mini_blog/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rafconrado/mini_blog?style=social)](https://github.com/rafconrado/mini_blog/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/rafconrado/mini_blog)](https://github.com/rafconrado/mini_blog/issues)
-[![License](https://img.shields.io/github/license/rafconrado/mini_blog)](https://github.com/rafconrado/mini_blog/blob/main/LICENSE) *(Adicione um arquivo LICENSE ao seu repositório para este selo funcionar)*
-
 Bem-vindo ao Mini Blog! Esta é uma aplicação web full-stack desenvolvida com **React.js** para o frontend e **Firebase** para o backend e autenticação. O projeto permite que usuários se registrem, façam login, criem, editem, excluam e pesquisem postagens por tags.
-
-**Visite o repositório:** [https://github.com/rafconrado/mini_blog](https://github.com/rafconrado/mini_blog)
 
 ## ✨ Funcionalidades
 
