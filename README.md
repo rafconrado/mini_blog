@@ -71,7 +71,7 @@ Siga estas instruções para obter uma cópia local do projeto em funcionamento.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/rafconrado/mini_blog.git](https://github.com/rafconrado/mini_blog.git)
+    git clone [https://github.com/rafconrado/mini_blog.git]
     ```
 2.  **Navegue até o diretório do projeto:**
     ```bash
